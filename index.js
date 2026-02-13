@@ -10,24 +10,27 @@ const jadwal = {
     "09.30 Bahasa Indonesia"
   ],
   selasa: [
-    "07.30 Matematika",
-    "08.50 IPA",
-    "09.30 PJOK"
-  ]
+    "05.45 pjok",
+    "09.30 dda",
+    "14.20 matematika"
+  ],
     rabu: [
-    "07.30 Bahasa Bali",
-    "08.50 IPAS",
-    "09.30 Bahasa Indonesia"
+    "07.30 ppkn",
+    "08.50 matematika",
+    "10.40 seni budaya",
+    "12.00 sejarah",
+    "13.40 bk", 
+    "14.20 bahasa indonesia"
   ],
     kamis: [
-    "07.30 Bahasa Bali",
-    "08.50 IPAS",
-    "09.30 Bahasa Indonesia"
+    "07.30 kka",
+    "08.50 dda",
+    "13.40 agama"
   ],
     jumat: [
-    "07.30 Bahasa Bali",
-    "08.50 IPAS",
-    "09.30 Bahasa Indonesia"
+    "07.30 informatika",
+    "11.20 bahasa inggris"
+  
   ],
 };
 
