@@ -14,6 +14,21 @@ const jadwal = {
     "08.50 IPA",
     "09.30 PJOK"
   ]
+    rabu: [
+    "07.30 Bahasa Bali",
+    "08.50 IPAS",
+    "09.30 Bahasa Indonesia"
+  ],
+    kamis: [
+    "07.30 Bahasa Bali",
+    "08.50 IPAS",
+    "09.30 Bahasa Indonesia"
+  ],
+    jumat: [
+    "07.30 Bahasa Bali",
+    "08.50 IPAS",
+    "09.30 Bahasa Indonesia"
+  ],
 };
 
 app.post("/webhook", (req, res) => {
